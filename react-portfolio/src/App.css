@@ -1,0 +1,28 @@
+:root {
+  --bs-white: #fff!important;
+  --bs-body-bg: #141414!important;
+  --bs-body-font-weight: 600!important;
+  --bs-body-font-family: 'Poppins', sans-serif!important;
+}
+
+body {
+  background-color: var(--bs-body-bg);
+  font-family: var(--bs-body-font-family);
+}
+
+h1 {
+  font-weight: 600;
+}
+
+hr {
+  border: 1px solid #fff!important;
+}
+
+section {
+  height: 80vh!important; 
+}
+  /* background-image: url("stars.jpg");
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover; */
+
